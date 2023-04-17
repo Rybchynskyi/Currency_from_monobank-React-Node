@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1",
+    "ws": "^8.13.0"
+  },
+  "name": "mono_fetch",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This app show currency from mono",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rybchinskiy",
+  "license": "ISC"
+}
